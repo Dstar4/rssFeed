@@ -22,7 +22,7 @@
     "knexnest": "^1.0.0",
     "rss-parser": "^3.7.5",
     "sqlite3": "^4.1.1",
-    "xmldom": "^0.2.1"
+    "xmldom": "^0.6.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
